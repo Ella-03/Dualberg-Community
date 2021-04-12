@@ -1,0 +1,32 @@
+/*CALENDAR*/
+iframe {
+	display: block;
+	margin: auto;
+	width: 50%;
+	height: 740px;
+	position: relative;
+}
+/*CALENDAR END*/
+
+/*SIDEBAR*/
+.sidebar {
+	font-size: 25px;
+	height: 740px;
+	width: 300px;
+	background-color: gray;
+	border: 4px solid white;
+	color: white;
+}
+
+.sizes {
+	float: left;
+}
+
+.sizes h2 {
+	font-size: 30px;
+}
+
+.sizes p {
+	font-size: 25px;
+}
+
